@@ -2,7 +2,7 @@ package edu.nwmissouri.zoo10group;
 
 /**
  *
- * @author Alex Dieringer
+ * @author Hemanth Kumar Reddy Pidaparathy
  */
 public abstract class Animal {
 
